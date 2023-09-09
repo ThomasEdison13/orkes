@@ -1,0 +1,22 @@
+.card-outer-space {
+    padding: 10px;
+}
+
+.card-outer {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.image-view {
+    min-height: 151px;
+    width: 150px;
+}
+
+.image-card {
+    border-radius: 30px;
+}
+
+.card-content {
+    margin-left: 16px;
+    margin-top: 50px;
+}
